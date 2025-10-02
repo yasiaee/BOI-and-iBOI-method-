@@ -40,4 +40,5 @@ PNG images named by angle, e.g. -90_aligned.png, 0_aligned.png, … for each ang
   3. Selects the angle with maximum |BOI| at each pixel.
 
   4. Assigns orientation vectors & colors; downsamples for clarity.
+
 Alos the code for BOI method provided.
