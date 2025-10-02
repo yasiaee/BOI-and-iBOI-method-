@@ -34,10 +34,7 @@ This project requires the following Python packages:
 - [scipy](https://pypi.org/project/scipy/)
 - [matplotlib](https://pypi.org/project/matplotlib/)
 
-You can install them all at once with:
 
-```bash
-pip install opencv-python numpy scipy matplotlib
 
 
 # Input
