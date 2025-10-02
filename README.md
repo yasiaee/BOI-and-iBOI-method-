@@ -25,7 +25,20 @@ This script computes the Birefringence Orientation Index (BOI) from perpendicula
 
 # Requirements
 
-opencv-python, numpy, scipy, matplotlib
+## 🛠️ Requirements
+
+This project requires the following Python packages:
+
+- [opencv-python](https://pypi.org/project/opencv-python/)
+- [numpy](https://pypi.org/project/numpy/)
+- [scipy](https://pypi.org/project/scipy/)
+- [matplotlib](https://pypi.org/project/matplotlib/)
+
+You can install them all at once with:
+
+```bash
+pip install opencv-python numpy scipy matplotlib
+
 
 # Input
 
