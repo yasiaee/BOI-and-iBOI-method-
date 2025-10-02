@@ -15,7 +15,7 @@
 
 
 
-# BOI-and-iBOI-method-
+# iBOI method 
 These  two methods use  for orienation mapping of cellulose  nanofibrils  film usin polarized light microscopy  image.
 This script computes the Birefringence Orientation Index (BOI) from perpendicular-angle polarized images, finds the dominant fiber orientation per pixel, and outputs:
 
