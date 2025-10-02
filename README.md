@@ -1,3 +1,20 @@
+
+# Automated Birefringence-Based High-Resolution Orientation Mapping of Cellulose Nanofibrils
+
+**Yasaman Asiaee<sup>1,2</sup>, Parinaz Rahimzadeh-Bajgiran<sup>1</sup>, Mehdi Tajvidi<sup>1,2</sup>\***  
+
+<sup>1</sup> School of Forest Resources, University of Maine, 5755 Nutting Hall, Orono, ME 04469, USA  
+<sup>2</sup> Advanced Structures and Composites Center, University of Maine, Orono, ME 04469, USA  
+
+\* **Corresponding Author:** [mehdi.tajvidi@maine.edu](mailto:mehdi.tajvidi@maine.edu)
+
+
+
+
+
+
+
+
 # BOI-and-iBOI-method-
 These  two methods use  for orienation mapping of cellulose  nanofibrils  film usin polarized light microscopy  image.
 This script computes the Birefringence Orientation Index (BOI) from perpendicular-angle polarized images, finds the dominant fiber orientation per pixel, and outputs:
